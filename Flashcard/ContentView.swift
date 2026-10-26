@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Flashcard
 //
-//  Created by Myriam Petroff on 10/25/26.
+//  Created by Lucas Rozenman on 10/25/26.
 //
 
 import SwiftUI
